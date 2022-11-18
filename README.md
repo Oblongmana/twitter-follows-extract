@@ -1,8 +1,13 @@
 # twitter-follows-extract
-Extracts Twitter followers/following lists to a CSV. Doesn't require any API shenanigans, just being logged in. Requires a bunch of scrolling, may only work in Chrome, super-scuffed. Based on some similarly scuffed code used for extracting Slack emoji from browser, where there's a similar dynamic-loading system for content. There is almost certainly better ways to do this, but they probably involved API setup, where this just requires you to open the page while logged in (and push a bunch of buttons).
+Extracts Twitter followers/following lists to a CSV. 
 
-VERY likely to break. Feel free to mess with this as you need
+Doesn't require any API shenanigans, just being logged in. 
 
+Requires a bunch of scrolling, may only work in Chrome, super-scuffed. Based on some similarly scuffed code used for extracting Slack emoji from browser, where there's a similar dynamic-loading system for content. 
+
+There are almost certainly better ways to do this, but they probably involve API setup, where this just requires you to open the page while logged in (and push a bunch of buttons).
+
+⚠ **VERY likely to break. Feel free to mess with this as you need** 
 
 ## How to use
 
